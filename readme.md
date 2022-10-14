@@ -18,4 +18,4 @@
   2. **IPv4**;  Is the 4th version of Internet Protocol, developed first in 1982, it is still the most widely used today.
      **IPv6**; IS the newest Protocol, since the interent is constantly growing we have a finite amount of Addresses. Having an new protocol allows for more to be created to keep up with demand. 
 
-3. 
+3. Routers and Routing: Chooses how when and where the packets are distributed to its intended recipient
